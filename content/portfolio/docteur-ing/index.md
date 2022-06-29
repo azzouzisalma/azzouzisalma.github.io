@@ -5,7 +5,7 @@ date: "2021-06-02T19:47:09+02:00"
 jobDate: 2021-06 (12 months)
 work: [Deep learning, Communication system, CP-OFDM]
 techs: [Python, PyTorch ]
-designs: [bibliographic study, Engineer-Doctor, IMS]
+designs: []
 thumbnail: docteur-ing/architecture.png
 projectUrl: https://github.com/azzouzisalma/DSM
 testimonial:

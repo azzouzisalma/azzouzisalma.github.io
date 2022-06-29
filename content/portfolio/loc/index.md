@@ -5,7 +5,7 @@ date: "2022-01-02T19:47:09+02:00"
 jobDate: 2022-01 (5 months)
 work: [Deep learning, Communication system, Autoencoder]
 techs: [Python, PyTorch, C++, Pybind11, AFF3Ct library]
-designs: [gg]
+designs: []
 thumbnail: loc/logo.png
 projectUrl: https://github.com/azzouzisalma/LOC
 
