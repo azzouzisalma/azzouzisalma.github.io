@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MNIST dataset on SALMA AZZOUZI</title>
+    <link>https://azzouzisalma.github.io/techs/mnist-dataset/</link>
+    <description>Recent content in MNIST dataset on SALMA AZZOUZI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jan 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://azzouzisalma.github.io/techs/mnist-dataset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dimensionality Reduction LDA&amp;PCA</title>
+      <link>https://azzouzisalma.github.io/portfolio/pca-lda/</link>
+      <pubDate>Sun, 02 Jan 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://azzouzisalma.github.io/portfolio/pca-lda/</guid>
+      <description>A higher number of dimensions theoretically allows for more information to be stored, but in practice it is rarely useful because of the increased possibility of noise and redundancy in real-world data. Thus, several methods have been developed to perform dimension reduction. In this work, I present two linear dimension reduction methods, namely: Principal component analysis, and linear discriminant analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

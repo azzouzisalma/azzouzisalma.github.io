@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matlab on SALMA AZZOUZI</title>
+    <link>https://azzouzisalma.github.io/techs/matlab/</link>
+    <description>Recent content in Matlab on SALMA AZZOUZI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Nov 2021 19:47:09 +0200</lastBuildDate><atom:link href="https://azzouzisalma.github.io/techs/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mosaic Project</title>
+      <link>https://azzouzisalma.github.io/portfolio/mosaique/</link>
+      <pubDate>Tue, 02 Nov 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://azzouzisalma.github.io/portfolio/mosaique/</guid>
+      <description>An image mosaic is the combination of several images having a part in common in order to reconstruct a panoramic and unified view so that objects representing the same structures are superimposed. These images can be observed from different angles. The construction of a mosaic requires first the conversion of the images into triples (I,M,B).
+The second step is the estimation of the geometrical transformation between the spaces of the different images Homography.</description>
+    </item>
+    
+    <item>
+      <title>ADS-B Project</title>
+      <link>https://azzouzisalma.github.io/portfolio/adsb/</link>
+      <pubDate>Thu, 02 Sep 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://azzouzisalma.github.io/portfolio/adsb/</guid>
+      <description>Automatic Dependent Surveillance–Broadcast (ADS-B) is implemented in air traffic systems as a complement to conventional radar. It allows the aircraft to estimate their positions thanks to GPS technology. These signals are then picked up by the antennas. The objective of this project is to process these signals in order to decode and display their content and to simulate in real time the ADS-B transmitter/receiver. For more detail, please check the Githyb link above.</description>
+    </item>
+    
+  </channel>
+</rss>
