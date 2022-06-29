@@ -2,11 +2,6 @@
 title: ABOUT
 description: Hey, I'm Salma Azzouzi
 thumbnail: sample-project/john.jpg
-testimonial:
-  name: John Doe
-  role: CEO @Example
-  image: sample-project/john.jpg
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
 ---
 
 
